@@ -1,4 +1,4 @@
-﻿/// <reference path="/Scripts/FabricUI/message.banner.js" />
+ <reference path="/Scripts/FabricUI/message.banner.js" />
 /*Copyright (c) Microsoft. All rights reserved. Licensed under the MIT license. 
   See LICENSE in the project root for license information */
 
